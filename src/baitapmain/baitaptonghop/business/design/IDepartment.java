@@ -1,7 +1,6 @@
-package baitapmain.baitaptonghop.business.design;
+package baitaptonghop.business.design;
 
-import baitapmain.baitaptonghop.business.entity.Department;
+import baitaptonghop.business.entity.Department;
 
-public interface IDepartment extends IGenericDesign<Department, String>{
-
+public interface IDepartment extends IGeneric<Department,String>{
 }

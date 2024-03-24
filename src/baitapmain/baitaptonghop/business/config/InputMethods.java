@@ -1,4 +1,4 @@
-package baitapmain.baitaptonghop.config;
+package baitaptonghop.business.config;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
